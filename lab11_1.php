@@ -1,5 +1,4 @@
 <?php
-phpinfo();
-echo'<p>My name is Chisana Chueawiang</p>';
-
+	phpinfo();
+	echo '<p>My name is The new Anp</p>';
 ?>
